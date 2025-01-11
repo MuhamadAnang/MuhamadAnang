@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ananghusnul10@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <div align="center">
   <img height="150" src="https://www.muhamadanang.web.id/assets/img/profile.webp"  />
 </div>
@@ -35,6 +34,7 @@ Here are some ideas to get you started:
 ###
 
 <h1 align="center">hey there 👋</h1>
+-->
 
 ###
 
